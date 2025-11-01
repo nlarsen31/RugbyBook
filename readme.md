@@ -2,7 +2,7 @@
 
 ## LEGO
 
-![non working video](3ManStrikePlays\Exports\LEGO.mp4)
+[Watch the demo video](3ManStrikePlays\Exports\LEGO.mp4)
 
 ## 1-2 Switch
 
