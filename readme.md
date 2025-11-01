@@ -4,7 +4,7 @@
 
 ### Delilah
 
-![Delilah](SetPieceBackLinePlays/Exports/Delilah-5-out.mp4)
+![Delilah](SetPieceBackLinePlays/Exports/Delilah-5-out.gif)
 
 ## 3 Man Strike Plays
 
