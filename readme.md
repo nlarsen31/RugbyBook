@@ -6,6 +6,12 @@
 
 ![Delilah](SetPieceBackLinePlays/Exports/Delilah-5-out.gif)
 
+![Delilah](SetPieceBackLinePlays/Exports/Delilah-3.gif)
+
+### Chopper
+
+![Chopper](SetPieceBackLinePlays/Exports/Chopper.gif)
+
 ## 3 Man Strike Plays
 
 ### KNIFE
