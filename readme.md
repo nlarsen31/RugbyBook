@@ -8,9 +8,9 @@
 
 ## 3 Man Strike Plays
 
-### LEGO
+### KNIFE
 
-![LEGO](3ManStrikePlays/Exports/LEGO.gif)
+![LEGO](3ManStrikePlays/Exports/KNIFE.gif)
 
 ### 1-2 Switch
 
